@@ -17,10 +17,10 @@ git clone https://github.com/AoiToSouma/pli_fm_slack
 cd pli_fm_slack
 chmod +x FluxMonitor_surveillance.sh
 ```
-### Edit parameters
-Edit the Webhook URL and polling interval.
+### Edit configurations
+Edit configuration
 ```
-nano FluxMonitor_surveillance.sh
+nano fm.conf
 ```
 
 ### PostgreSQL permission settings
